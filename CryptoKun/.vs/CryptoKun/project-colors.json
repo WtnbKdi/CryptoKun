@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8b699f5-df61-4478-9e19-e5c84cc8293b": {
+      "ProjectGuid": "e8b699f5-df61-4478-9e19-e5c84cc8293b",
+      "DisplayName": "CryptoKun",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
